@@ -1817,8 +1817,11 @@ input.s-b:hover {
     min-height: 580px;
   }
   .it-info h2 {
-    font-size: 70px;
+    font-size: 55px;
   }
+  .it-info h6 {
+    font-size: 25px;
+}
   .myBtn button {
     padding: 9px;
     font-size: 21px;
